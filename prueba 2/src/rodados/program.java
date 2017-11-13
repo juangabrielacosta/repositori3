@@ -7,7 +7,7 @@ public class program {
 	}
 
 	public static void main(String[] args) {
-Vehiculos moto = new motocicleta("colibri");
+Vehiculos moto = new motocicleta("marcos");
 moto = new gasoil(moto);
 mostrar(moto);
 	}
